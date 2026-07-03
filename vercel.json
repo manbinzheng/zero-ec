@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "http://v2.zero-ec.top/api/authorize/shop",
+      "destination": "https://v2.zero-ec.top/api/authorize/shop",
       "permanent": true
     }
   ]
